@@ -1,6 +1,6 @@
 # 👋 Hi, I’m mnk44
 
-## I'm engineer system student at CUJAE 💚, I also love programing.
+## I'm a systems engineering student at CUJAE💚. I love my profession and I love programming.
 
 ## ***Skills***
 
