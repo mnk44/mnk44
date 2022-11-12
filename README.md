@@ -12,6 +12,8 @@
 
 ## I'm a systems engineering student at CUJAE💚. I love my profession and I love programming. I'm also on GitLab.
 
+## English Level: B2 (https://www.efset.org/cert/SJQ3MV)
+
 ## ***Skills***
 
 * [TypeScript](https://www.typescriptlang.org/docs/)
@@ -34,7 +36,7 @@
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 
-# English Level: B2 (https://www.efset.org/cert/SJQ3MV)
+---
 
 ### :fire: My Stats :
 
