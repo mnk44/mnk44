@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://github.com/mnk44/mnk44/blob/master/img/Animation.gif" width="250"/>
   
 </div>
 
@@ -40,11 +40,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnk44&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnk44&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnk44&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnk44&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnk44&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnk44&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
