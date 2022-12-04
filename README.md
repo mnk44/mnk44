@@ -31,7 +31,11 @@
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/> [HTML](https://www.w3.org/html/)
 * <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="20" height="20"/> [Ionic](https://ionicframework.com)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> [Java](https://www.java.com)
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> [JavaFx](https://openjfx.io/)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="20" height="20"/> [JQuery](https://jquery.com)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png?20210414121601" width="20" height="10"/> [Latex](https://www.latex-project.org/)
+* <img src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2019/09/lazarus.png" width="20" height="20"/> [Lazarus](https://www.lazarus-ide.org/)
 * <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="20" height="20"/> [MatLab](https://www.mathworks.com/)
 * <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" height="20"/> [MSSQL](https://www.microsoft.com/en-us/sql-server)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/> [MYSQL](https://www.mysql.com/)
@@ -39,8 +43,10 @@
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20" height="20"/> [Photoshop](https://www.photoshop.com/en)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/> [PHP](https://www.php.net)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="20" height="20"/> [PostgreSQL](https://www.postgresql.org)
+* <img src="https://www.swi-prolog.org/icons/swipl.png" width="20" height="17"/> [Prolog](https://www.swi-prolog.org/)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> [Python](https://www.python.org)
 * <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="20" height="20"/> [Qt](https://www.qt.io/)
+* <img src="https://www.r-project.org/Rlogo.png" width="20" height="15"/> [R](https://www.r-project.org/)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> [TypeScript](https://www.typescriptlang.org/)
 
 ---
@@ -57,7 +63,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://twitter.com/monik446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monik446" height="30" width="40" /></a>
 <a href="https://instagram.com/mnk_m44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
