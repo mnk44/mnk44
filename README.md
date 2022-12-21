@@ -65,6 +65,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mnk44&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monica-montoto-598469259" target="blank"><img align="center" src="https://github.com/mnk44/mnk44/blob/master/img/Componente%201%20%E2%80%93%201.png" height="55" width="28" /></a>
