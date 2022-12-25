@@ -16,7 +16,7 @@
 * English level: B2 (https://www.efset.org/cert/SJQ3MV)
 * French level: A2
 
-## ***Skills***
+## Tech skills
 
 * <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20" height="20"/> [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)
 * <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="20" height="20"/> [Adobe XD](https://www.adobe.com/products/xd.html)
