@@ -53,15 +53,13 @@
 
 ---
 
-### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnk44&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnk44&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnk44&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnk44&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
