@@ -19,7 +19,7 @@
 ## Tech skills
 
 * <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20" height="20"/> [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)
-* <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="20" height="20"/> [Adobe XD](https://www.adobe.com/products/xd.html)
+* <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="20" height="20"/> [Adobe XD](https://www.adobe.com/products/xd.html)
 * <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20"/> [Angular](https://angular.io)
 * <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20" height="20"/> [AngularJs](https://angularjs.org/)
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmDfMo8Mn8kQ844PQUAbyRmLgENbzgdwiA5aMYmM4Pw&s" width="20" height="20"/> [Appian](https://appian.com/es.html)
