@@ -13,8 +13,8 @@
 ## I'm a Systems Engineering graduated from CUJAE💚. I love my profession and I love programming. I'm also on GitLab.
 
 ## Language skills
-* English level: B2 (https://www.efset.org/cert/SJQ3MV)
-* French level: A2
+* English level: C1
+* French level: B1
 
 ## Tech skills
 
