@@ -42,6 +42,7 @@
 * <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="20" height="20"/> [MatLab](https://www.mathworks.com/)
 * <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" height="20"/> [MSSQL](https://www.microsoft.com/en-us/sql-server)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/> [MYSQL](https://www.mysql.com/)
+* <img src="https://nhibernate.info/images/LogoNH.gif" width="20" height="15"/> [NHibernate](https://nhibernate.info)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"/> [NodeJs](https://nodejs.org)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20" height="20"/> [Photoshop](https://www.photoshop.com/en)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/> [PHP](https://www.php.net)
@@ -72,7 +73,8 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://twitter.com/monik446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monik446" height="30" width="40" /></a>
+<a href="https://twitter.com/monik446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monik446" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/mnk44" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="mnk44" height="50" width="50" /></a>
 <a href="https://t.me/Mnk0044" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height="32" width="32" /></a>
 <a href="https://instagram.com/mnk_m44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/monik.montoto.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
