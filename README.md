@@ -10,7 +10,7 @@
 
 </h1>
 
-## I'm a Systems Engineering graduated from CUJAE💚. I love my profession and I love programming. I'm also on GitLab.
+## I'm a Computer Engineer with 4 years of work experience. Decisive and efficient person, capable of working as a team and under pressure. Passionate about technology and continuous learning. You can find me on GitLab as mnk44.
 
 ## Language skills
 * English level: C1
