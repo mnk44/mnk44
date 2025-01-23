@@ -55,7 +55,7 @@
 
 ---
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://static.vecteezy.com/system/resources/previews/018/930/587/original/awscloud.png)"/>
+<img src="https://github.com/mnk44/mnk44/blob/master/img/awscloud.png"/>
 
 ---
 
