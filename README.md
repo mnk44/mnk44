@@ -6,17 +6,12 @@
 
 <h1 align="center">
  Hi👋 I'm
- <A HREF="https://mobile.twitter.com/Monik446"> mnk44</A>
-
+ <A HREF="https://www.linkedin.com/in/monicamontoto">Mónica</A>
 </h1>
 
-## I'm a Computer Engineer with 4 years of work experience. Decisive and efficient person, capable of working as a team and under pressure. Passionate about technology and continuous learning. You can find me on GitLab as mnk44.
+<h2 align="center">I'm a Computer Engineer with 4 years of work experience. Decisive and efficient person, capable of working as a team and under pressure. Passionate about technology and continuous learning. You can find me on <a href="https://www.gitlab.com/mnk44">GitLab<a> too.</h2>
 
-## Language skills
-* English level: C1
-* French level: B1
-
-## Tech skills
+<!--<h3 align="left">Tech Skills:</h3>
 
 * <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20" height="20"/> [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)
 * <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="20" height="20"/> [Adobe XD](https://www.adobe.com/products/xd.html)
@@ -53,7 +48,8 @@
 * <img src="https://www.r-project.org/Rlogo.png" width="20" height="15"/> [R](https://www.r-project.org/)
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> [TypeScript](https://www.typescriptlang.org/)
 
----
+--->
+## Badges and Certifications:
 
 <img src="https://github.com/mnk44/mnk44/blob/master/img/awscloud.png"/>
 
@@ -63,20 +59,9 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnk44&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnk44&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnk44&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mnk44&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mnk44&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<h3 align="left">Contact with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/monicamontoto" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="mnk44" height="50" width="50" /></a>
-<a href="https://instagram.com/mnk_m44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
